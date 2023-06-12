@@ -1,0 +1,1 @@
+scoreboard players set lvl_detect lvl 0

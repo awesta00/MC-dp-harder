@@ -1,0 +1,40 @@
+-Make mobs harder
+-better wandering trader
+
+
+
+#Health
+# 500: warden
+# 300: wither
+# 200: ender dragon
+# 100: ravager
+# 80: Elder guardian
+# 50: piglin brute
+# 40: enderman, hoglin, zoglin
+# 30: guardian, shulker
+# 26: witch
+# 24: evoker, pillager, vindicator
+# 20: zombie, creeper, skeleton, zombified piglin, blaze, drowned, phantom, husk, wither skele, zomb villager
+# 16: spider, piglin
+# 14: vex
+# 12: cave spider
+# 10: ghast
+# 8: endermite, sliverfish
+
+#Magma cube/slime: 16>4>1
+
+
+# Damage:
+# 64: creeper
+# 45: warden
+# 19: piglin brute, vindicator
+# 12: elder guardian, hoglin, zoglin, vex, wither skele
+# 10: enderman
+# 9: blaze, guardian, piglin
+# 6: ghast
+# 4: drowned, husk, zombie
+# 3: cave spider, endermite, phantom, spider
+# 1: sliverfish
+
+# # hard
+# piglin, magma, slime, creeper, pillager, skele, ravager
